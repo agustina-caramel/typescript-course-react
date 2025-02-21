@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# VSCode specific files
+.vscode/
+
+# Environment files
+.env
+
+# npm package lock file
+package-lock.json 
+yarn.lock 
